@@ -9,9 +9,13 @@ Structuring your content effectively is a key aspect of successful web writing. 
 
 Studies have shown that online readers tend to scan content in an "F" pattern. They first read across the top in a horizontal movement, then move down the page in a shorter horizontal sweep, and finally scan the left side vertically. Understanding this pattern allows you to place your most important information in these high-visibility areas. 
 
+![F Pattern](./assets/f-shape.jpeg)
+
 ## Crafting Engaging Headlines and Subheadings 
 
 Headlines and subheadings serve as signposts that guide readers through your content. Well-crafted headlines capture attention and provide a preview of what's to come. Subheadings break down the content into manageable sections, making it easier for readers to navigate and find the information they need. 
+
+![F Pattern](./assets/f-apptern.jpeg)
 
 ## Utilizing Bulleted Lists and Numbered Points 
 
