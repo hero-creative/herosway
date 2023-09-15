@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Worksheet: Website Page Planning 
 
-[View Worksheet in Google Docs](https://google.com)
+[View Worksheet in Google Docs](https://docs.google.com/document/d/1i1Ja-TujFkjnYscSUd0Za2xMKSlyDET2kcX-IXUexlU/edit?usp=sharing)
 
 ## 1. Purpose and Goals: 
 Define the main purpose of the website and its goals. What do you want to achieve with this website? (e.g., showcase products, provide information, generate leads, sell services, etc.) 

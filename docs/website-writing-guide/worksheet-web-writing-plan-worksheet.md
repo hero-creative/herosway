@@ -3,6 +3,7 @@ sidebar_position: 12
 ---
 
 # Worksheet: Page Writing Plan 
+[View Worksheet in Google Docs](https://docs.google.com/document/d/1cHBVRp1bfYigp8eK55vyrC1qety4IjFKxtG4oaAVZdQ/edit?usp=sharing)
 
 ## Page Name
 [Insert your chosen topic here, ie Home] 
@@ -22,5 +23,3 @@ sidebar_position: 12
 ## Primary CTA (Call to Action): 
 
 [What action do you want readers to take after engaging with your content?] 
-
-Creating a worksheet to help your client determine how many pages they need for their website is a great way to guide them through the planning process. Here's a template you can use: 
